@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Misbah-13.
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning computer science and engineering.
+- 👀 I’m interested in front end development and networking.
+- 🌱 I’m Currently working as a network Engineer.
 - 📫 How to reach me ... 7006168850.... misbahqayoom13@gmail.com
 
 <!---
